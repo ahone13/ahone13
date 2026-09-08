@@ -5,9 +5,9 @@
 ### Data Analytics · Business Intelligence · Data Science
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF7EB6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahone-okah/)
-[![Personal website](https://img.shields.io/badge/Portfolio-FFF2A6?style=for-the-badge&logo=github&logoColor=333333)](https://ahone13.github.io/AhoneOS/)
-[![GitHub](https://img.shields.io/badge/GitHub-FF7EB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahone13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F2B1D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahone-okah/)
+[![Personal website](https://img.shields.io/badge/Portfolio-FFEF85?style=for-the-badge&logo=github&logoColor=333333)](https://ahone13.github.io/AhoneOS/)
+[![GitHub](https://img.shields.io/badge/GitHub-F2B1D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahone13)
 
 </div>
 

@@ -2,7 +2,7 @@
 
 # O'KAH AHONE EBWEKOH
 
-### Data Analytics · Business Intelligence · Data Science
+### Data Analytics · BI · Data Science · Writing · Creative Technology 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F2B1D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahone-okah/)
@@ -17,7 +17,7 @@
 
 I'm an **MSc Data Science student** with a background in **Business Information Systems**, interested in using data to solve practical business problems.
 
-My work is very diverse. It includes :
+My work is very diverse. Ranges from technology to creativity and includes :
 
 - 📊 **Data Analytics & Business Intelligence**
 - 🐍 **Python & SQL**
@@ -26,6 +26,18 @@ My work is very diverse. It includes :
 - 💻 **Business Systems & Software Development**
 
 I've worked on projects involving inventory management, retail analytics, ETL pipelines, machine learning, NLP, and interactive dashboards.
+
+## ✍️ Beyond Data
+
+Data is what I'm studying, but it's not all I do.
+
+I write about people, culture, relationships, identity, and the strange
+little things that make being alive interesting. I also authored a horror/thriller comic available on Webtoon called 'The Oak'.
+
+I also build things just because how hard can it be right...?
+
+You can find some of that work on my
+[personal website](https://ahone13.github.io/AhoneOS/) or on my [substack](https://substack.com/@cvntessential)
 
 ---
 

@@ -32,12 +32,12 @@ I've worked on projects involving inventory management, retail analytics, ETL pi
 Data is what I'm studying, but it's not all I do.
 
 I write about people, culture, relationships, identity, and the strange
-little things that make being alive interesting. I also authored a horror/thriller comic available on Webtoon called 'The Oak'.
+little things that make being alive interesting. I authored a horror/thriller comic available on Webtoon called 'The Oak'.
 
 I also build things just because how hard can it be right...?
 
 You can find some of that work on my
-[personal website](https://ahone13.github.io/AhoneOS/) or on my [substack](https://substack.com/@cvntessential)
+[personal website](https://ahone13.github.io/AhoneOS/) or on my [substack](https://substack.com/@cvntessential).
 
 ---
 
